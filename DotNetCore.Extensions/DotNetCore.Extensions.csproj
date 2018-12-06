@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <Company>PC World Inc</Company>
+    <Authors>Christopher R. Schuchardt</Authors>
+    <Description>Useful everyday .NET Core extensions for conversions and other tasks made simple.</Description>
+    <Copyright>2018</Copyright>
+    <PackageProjectUrl>https://cschuchardt88.github.io/DotNetCore.Extensions/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/cschuchardt88/DotNetCore.Extensions</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>dotnetcore dotnet dotnet-core2 dotnet-core extension extensions dotnet-extensions dotnetcore-extensions</PackageTags>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <SignAssembly>true</SignAssembly>
+    <DelaySign>false</DelaySign>
+    <AssemblyOriginatorKeyFile>DotNetCore.Extensions.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <CheckForOverflowUnderflow>true</CheckForOverflowUnderflow>
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+  </PropertyGroup>
+
+</Project>
