@@ -16,6 +16,7 @@
     <SignAssembly>true</SignAssembly>
     <DelaySign>false</DelaySign>
     <AssemblyOriginatorKeyFile>DotNetCore.Extensions.pfx</AssemblyOriginatorKeyFile>
+    <PackageLicenseUrl>https://github.com/cschuchardt88/DotNetCore.Extensions/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
