@@ -1,8 +1,0 @@
-D:\CoreProjects\DotNetCore.Extensions\bin\Debug\netcoreapp2.0\DotNetCore.Extensions.deps.json
-D:\CoreProjects\DotNetCore.Extensions\bin\Debug\netcoreapp2.0\DotNetCore.Extensions.dll
-D:\CoreProjects\DotNetCore.Extensions\bin\Debug\netcoreapp2.0\DotNetCore.Extensions.pdb
-D:\CoreProjects\DotNetCore.Extensions\obj\Debug\netcoreapp2.0\DotNetCore.Extensions.csproj.CoreCompileInputs.cache
-D:\CoreProjects\DotNetCore.Extensions\obj\Debug\netcoreapp2.0\DotNetCore.Extensions.AssemblyInfoInputs.cache
-D:\CoreProjects\DotNetCore.Extensions\obj\Debug\netcoreapp2.0\DotNetCore.Extensions.AssemblyInfo.cs
-D:\CoreProjects\DotNetCore.Extensions\obj\Debug\netcoreapp2.0\DotNetCore.Extensions.dll
-D:\CoreProjects\DotNetCore.Extensions\obj\Debug\netcoreapp2.0\DotNetCore.Extensions.pdb
